@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Phone Book/task/build/
+/Phone Book/task/out/
+/Phone Book/task/out/production/classes/
+/Phone Book/task/out/test/classes/
